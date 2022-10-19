@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Raven.Live": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
